@@ -12,7 +12,7 @@
 Протокол текстовый, построен поверх TCP. Сообщения разделяются переносом строки. Далее приведены диаграммы последовательностей для всех вариантов действия игрока:
 
 ### Подключение к серверу
-<img width="659" height="295" alt="image" src="https://github.com/user-attachments/assets/64a45537-5536-446a-b244-3b55d9ede3c6" />
+<img width="608" height="278" alt="image" src="https://github.com/user-attachments/assets/25960402-938b-4612-a9dd-7381671b5b83" />
 
 ### Ход игрока
 <img width="701" height="778" alt="image" src="https://github.com/user-attachments/assets/ff758727-60e4-4ee5-866a-e82c656da446" />
